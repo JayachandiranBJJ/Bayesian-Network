@@ -21,8 +21,6 @@ To create a Bayesian Network for the given dataset in Python.
 
 ## PROGRAM
 ```python3
-!pip install pybbn
-
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
